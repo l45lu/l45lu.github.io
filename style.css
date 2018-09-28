@@ -3,6 +3,9 @@ element.style {
 .text-center {
     text-align: center!important;
 }
+.nav-link{
+    text-align: center;
+}
 
 body.startup{
     background-position: center;
