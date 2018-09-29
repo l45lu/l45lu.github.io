@@ -3,8 +3,13 @@ element.style {
 .text-center {
     text-align: center!important;
 }
-.nav-link{
-    text-align: center;
+.midlogo {
+    width: 100px;
+}
+
+.sigpic {
+    width: 75px;
+    margin-top: -5px;
 }
 
 body.startup{
@@ -38,6 +43,17 @@ body {
 
 body.nav-link {
     color: none;
+}
+
+.heart {
+  color: #EB5E28;
+  animation: heathing 1s ease infinite;
+}
+.footer .heart {
+  color: #EB5E28;
+}
+.fa-heart {
+  color: #EB5E28;
 }
 
 main.btn-secondary: hover {
